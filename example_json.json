@@ -1,0 +1,214 @@
+[ 
+	{
+		"manga_name": "Chainsaw Man", 
+		"chapter": 1,
+		"page": {"page_id": 1, "page_size": {"width": 100, "height": 100}},
+		"image": "image_1_1.png",
+		"content": [
+			{
+			"panel": {"panel_id": 1, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 1, "character_name": "character_1", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}, 
+                    {"character_id": 2, "character_name": "character_2", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "narrator", "character_id": null},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 1},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			},
+			{
+			"panel": {"panel_id": 2, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 1, "character_name": "character_1", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}, 
+                    {"character_id": 2, "character_name": "character_2", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+                    {"character_id": 3, "character_name": "character_3", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 2},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},  
+				"speaker": {"type": "character", "character_id": 3},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			}
+		]
+	}, 
+	{
+		"manga_name": "Chainsaw Man", 
+		"chapter": 1,
+		"page": {"page_id": 2, "page_size": {"width": 100, "height": 100}},
+		"image": "image_1_1.png",
+		"content": [
+			{
+			"panel": {"panel_id": 1, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},  
+			"character": [
+                    {"character_id": 1, "character_name": "character_1", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}, 
+                    {"character_id": 2, "character_name": "character_2", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "narrator", "character_id": null},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "narrator", "character_id": null},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			},
+			{
+			"panel": {"panel_id": 2, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 1, "character_name": "character_1", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 1},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 1},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			}
+		]			
+	}, 
+	{
+		"manga_name": "Chainsaw Man", 
+		"chapter": 2,
+		"page": {"page_id": 1, "page_size": {"width": 100, "height": 100}},
+		"image": "image_2_1.png",
+		"content": [
+			{
+			"panel": {"panel_id": 1, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 2, "character_name": "character_2", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "narrator", "character_id": null},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 2},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			},
+			{
+			"panel": {"panel_id": 2, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 3, "character_name": "character_3", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 3},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 3},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			}
+		]			
+	}, 
+	{
+		"manga_name": "Chainsaw Man", 
+		"chapter": 2,
+		"page": {"page_id": 2, "page_size": {"width": 100, "height": 100}},
+		"image": "image_2_1.png",
+		"content": [
+			{
+			"panel": {"panel_id": 1, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 2, "character_name": "character_2", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "narrator", "character_id": null},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 2},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			},
+			{
+			"panel": {"panel_id": 2, "panel_size": {"width": 100, "height": 100}, "panel_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+			"character": [
+                    {"character_id": 3, "character_name": "character_3", "character_size": {"width": 100, "height": 100}, "character_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}}],
+			"caption": "...",
+			"content": [
+				{
+				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 3},
+				"text":"俺は行く", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				},
+				{
+				"bubble": {"bubble_id": 2, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
+				"speaker": {"type": "character", "character_id": 3},
+				"text":"俺は行くぞ！", 
+                "lang": "ja",
+                "translate": [{"text": null, "lang": null}]
+				}
+				]
+			}
+		]	
+	}
+]
