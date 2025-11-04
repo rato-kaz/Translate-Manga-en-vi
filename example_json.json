@@ -174,7 +174,7 @@
 				{
 				"bubble": {"bubble_id": 1, "bubble_size": {"width": 100, "height": 100}, "bubble_position": {"x1": 120, "y1": 230, "x2": 280, "y2": 290}},
 				"speaker": {"type": "narrator", "character_id": null},
-				"text":"俺は行く", 
+				"text":"俺行く", 
                 "lang": "ja",
                 "translate": [{"text": null, "lang": null}]
 				},
